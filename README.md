@@ -4,4 +4,7 @@ A desktop-based Inventory Management System built using Python, Tkinter, SQLite,
 This application helps manage products and employees, track stock levels, visualize inventory data, and receive alerts for low stock and expired products.
 
 you can read for more info:https://github.com/Sohan238055/Stock-Management/blob/main/Sohan%20Final%20project-1.pdf
+
+
+
 demo vedio:https://github.com/user-attachments/assets/93e90ef7-8da4-49f1-aa3e-bdba6d114961
